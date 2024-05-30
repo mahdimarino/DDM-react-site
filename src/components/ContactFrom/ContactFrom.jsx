@@ -22,7 +22,6 @@ const ContactForm = () => {
             })
             .catch(error => {
                 console.error('Error:', error);
-                console.log('hellooooooooooooooooooo');
             });
     };
 
